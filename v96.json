@@ -1,8 +1,9 @@
 {
-    "status": "on",
-    "users":{
-        "basic":"bogdodan",
-        "admin":"bogdodan",
-        
-    }
+  "status": "on",
+  "users": {
+    "basic": ["bogdodan"],
+    "admin": "bogdodan",
+    "extra": ["bogdodan"]
+  }
 }
+
