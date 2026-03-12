@@ -1,10 +1,10 @@
 {
   "status": "on",
   "users": {
-    "basic": ["karagnec", "hmimutut", "iucalara"],
-    "admin": ["bogdodan"],
-    "extra": ["bogdodan", "karagnec", "odoroaa"],
-    "RSP": ["bogdodan", "srbbommu", "someetku", "covacit", "alhasnax", "tekanges", "hmimutut", "madasmad", "darleyki"],
-    "QB": ["bogdodan", "srbbommu", "someetku", "covacit", "pjedyna", "hmimutut", "alhasnax", "tekanges", "madasmad", "darleyki"]
+    "basic": "karagnec", "hmimutut", "iucalara",
+    "admin": "bogdodan",
+    "extra": "bogdodan", "karagnec", "odoroaa",
+    "RSP": "bogdodan", "srbbommu", "someetku", "covacit", "alhasnax", "tekanges", "hmimutut", "madasmad", "darleyki",
+    "QB": "bogdodan", "srbbommu", "someetku", "covacit", "pjedyna", "hmimutut", "alhasnax", "tekanges", "madasmad", "darleyki"
   }
 }
