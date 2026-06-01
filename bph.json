@@ -1,0 +1,77 @@
+{
+  "STN6": {
+    "editors": ["bogdodan", "mihungur", "tapfuman", "irmanta"],
+    "AFM": 
+    "NightShiftAFMs": [
+      "bogdodan",
+      "mihungur",
+      "himanjoh",
+      "nqobizt",
+      "vigundiu",
+      "akhilkas",
+      "hitarpat",
+      "tshoukad",
+      "sulnava",
+      "atapeteg",
+      "mullamsu",
+      "dasingri",
+      "nikhnuth",
+      "ayisr",
+      "wijohnwi",
+      "ayahiyas",
+      "sinysika",
+      "srinidro"
+    ],
+    "DayShiftAFMs": [
+      "tapfuman",
+      "irmanta"
+    ]
+  }
+}
+{
+  "DSA2": {
+    "editors": ["bogdodan", "ionnicoa", "jacleemi", "harvijsk", "pjedyna"],
+    "AFM": 
+    "NightShiftAFMs": [
+      "ionnicoa",
+      "jacleemi",
+      "sorreell",
+      "bhoshumi",
+      "tekanges",
+      "alhasnax",
+      "ugamanik",
+      "sirupang",
+      "abrmsgna",
+      "srbbommu",
+      "kkauarya",
+      "kabyakob",
+      "teokubag",
+      "srinidro",
+      "umarripu",
+      "yevishnu"
+    ],
+    "DayShiftAFMs": [
+      "harvijsk",
+      "pjedyna",
+      "darleyki",
+      "gopinbha",
+      "madasmad",
+      "ritikrij",
+      "covacit",
+      "sairalsa",
+      "shaaditn",
+      "ynazmoh",
+      "pradedom",
+      "nmuhabil",
+      "jnguabel",
+      "lnaprave",
+      "chzgokul",
+      "mallkemi",
+      "shaiamei"
+    ]
+  }
+  {
+  "EMa4": {
+    "editors": ["bogdodan", "mockha", "wilsochr", "karunard", "usaimuha"],
+    "AFM": ["afm1", "afm2"]
+  }
