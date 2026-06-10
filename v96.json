@@ -3,9 +3,9 @@
     "status": "on",
     "users":{
         "admin":"bogdodan",
-        "extra":"bogdodan,odoroaa,zahfelix,jacleemi,mihungur",
-        "RSP":"bogdodan,srbbommu,covacit,zahfelix,bmigeorg,alhasnax,tekanges,mintulea,mihungur,hmimutut,madasmad,darleyki,jacleemi,tapfuman,himanjoh,mihungur,pjedyna,harvijsk",
-        "QB": "bogdodan,srbbommu,covacit,zahfelix,bmigeorg,hmimutut,mintulea,alhasnax,mihungur,tekanges,madasmad,darleyki,jacleemi,himanjoh,tapfuman,mihungur,pjedyna,harvijsk",
+        "extra":"bogdodan,odoroaa,zahfelix,jacleemi,mihungur,bmigeorg",
+        "RSP":"bogdodan,srbbommu,covacit,zahfelix,bmigeorg,alhasnax,tekanges,mintulea,mihungur,hmimutut,madasmad,darleyki,jacleemi,tapfuman,himanjoh,mihungur,pjedyna,harvijsk,bmigeorg",
+        "QB": "bogdodan,srbbommu,covacit,zahfelix,bmigeorg,hmimutut,mintulea,alhasnax,mihungur,tekanges,madasmad,darleyki,jacleemi,himanjoh,tapfuman,mihungur,pjedyna,harvijsk,bmigeorg",
         "basic":"",
         "backup":"hmimutut,kimellag,zahfelix,avrac,mintulea,duminour,bivolmb,ionnicoa,srbbommu,banaharo,sinanjab,dannagas,akhar,jbbizarr,melinst,kimellag,danstefa,tmicklew,mkkupczy,visalvals,vrachamr,cheverit,faithhus,ommekawy,patsesha,voronovc,liharrie,pjedyna,aslaiuli,voromiha,radudenv,hudalabo,bhasyoun,foleyleo,sidiqibr,nupri,venckopp,alhasnax,covacit,madasmad,darleyki,qsamuham,mohmmpat,walayat,plikusok,dunaflor,vemupriy,mmaikova,tekanges,mihaleag,melintst,vnkoneti,perozind,tauseaks,shakyshr,diaalexe,bmigeorg,ldnlc,chiperac,tapfuman,srrotaru,cutlmath,pazhadar,harvijsk,zahfelix,jakeburt,duminour"
         
