@@ -2,12 +2,12 @@
 {
     "status": "on",
     "users":{
-        "admin":"bogdodan",
-        "extra":"bogdodan,odoroaa,zahfelix,jacleemi,mihungur,bmigeorg",
-        "RSP":"bogdodan,srbbommu,covacit,zahfelix,bmigeorg,alhasnax,dasingri,tekanges,mihungur,hmimutut,madasmad,jacleemi,tapfuman,himanjoh,mihungur,pjedyna,bmigeorg",
-        "QB": "bogdodan,srbbommu,covacit,zahfelix,bmigeorg,hmimutut,dasingri,alhasnax,mihungur,tekanges,madasmad,jacleemi,himanjoh,tapfuman,mihungur,pjedyna,bmigeorg",
+        "admin":"",
+        "extra":"odoroaa,zahfelix,jacleemi,mihungur,bmigeorg",
+        "RSP":"srbbommu,covacit,zahfelix,bmigeorg,alhasnax,dasingri,tekanges,mihungur,hmimutut,madasmad,jacleemi,tapfuman,himanjoh,mihungur,pjedyna,bmigeorg",
+        "QB": "srbbommu,covacit,zahfelix,bmigeorg,hmimutut,dasingri,alhasnax,mihungur,tekanges,madasmad,jacleemi,himanjoh,tapfuman,mihungur,pjedyna,bmigeorg",
         "basic":"",
-        "backup":"bogdodan,hmimutut,skolil,harshde,romankut,khugheso,kimellag,mintulea,lacatm,kagszeto,dasingri,zahfelix,avrac,bivolmb,ionnicoa,srbbommu,banaharo,sinanjab,dannagas,akhar,jbbizarr,melinst,danstefa,tmicklew,mkkupczy,visalvals,vrachamr,cheverit,faithhus,ommekawy,patsesha,voronovc,liharrie,pjedyna,aslaiuli,voromiha,radudenv,hudalabo,bhasyoun,foleyleo,sidiqibr,nupri,venckopp,alhasnax,covacit,madasmad,qsamuham,mohmmpat,walayat,plikusok,kueanki,dunaflor,vemupriy,mmaikova,tekanges,mihaleag,melintst,vnkoneti,perozind,tauseaks,shakyshr,diaalexe,bmigeorg,ldnlc,chiperac,tapfuman,srrotaru,cutlmath,pazhadar,zahfelix,jakeburt,duminour"
+        "backup":"hmimutut,skolil,harshde,romankut,khugheso,kimellag,mintulea,lacatm,kagszeto,dasingri,zahfelix,avrac,bivolmb,ionnicoa,srbbommu,banaharo,sinanjab,dannagas,akhar,jbbizarr,melinst,danstefa,tmicklew,mkkupczy,visalvals,vrachamr,cheverit,faithhus,ommekawy,patsesha,voronovc,liharrie,pjedyna,aslaiuli,voromiha,radudenv,hudalabo,bhasyoun,foleyleo,sidiqibr,nupri,venckopp,alhasnax,covacit,madasmad,qsamuham,mohmmpat,walayat,plikusok,kueanki,dunaflor,vemupriy,mmaikova,tekanges,mihaleag,melintst,vnkoneti,perozind,tauseaks,shakyshr,diaalexe,bmigeorg,ldnlc,chiperac,tapfuman,srrotaru,cutlmath,pazhadar,zahfelix,jakeburt,duminour"
         
     }
 }
